@@ -48,6 +48,17 @@ Gradle:
 compile 'com.lhl:message-bus:0.0.1'
 ```
 
+Maven:
+<br>
+```
+<dependency>
+  <groupId>com.lhl</groupId>
+  <artifactId>message-bus</artifactId>
+  <version>0.0.1</version>
+  <type>pom</type>
+</dependency>
+```
+
 ## Why use MessageBus
 
 - MessageBus是一个android平台的基于订阅-发布模式的消息框架，支持跨进程消息通信
