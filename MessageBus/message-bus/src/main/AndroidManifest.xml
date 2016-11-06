@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.lhl.messagebus">
+
+    <application>
+
+    </application>
+
+</manifest>
